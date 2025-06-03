@@ -1,6 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 ### NAME : VINOTHINI T
-### REG NO :21223040245
+### REG NO :212223040245
 
 
 ## AIM
